@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 102 41"
+   version="1.1"
+   id="svg7026"
+   sodipodi:docname="Symbol_oscilloscope.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7030" />
+  <sodipodi:namedview
+     id="namedview7028"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="11.833333"
+     inkscape:cx="51"
+     inkscape:cy="20.535211"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7026" />
+  <title
+     id="title6980">Symbol oscilloscope</title>
+  <g
+     id="g7924">
+    <rect
+       x="0.5"
+       y="0.5"
+       width="101"
+       height="40"
+       rx="6.33"
+       ry="6.33"
+       fill="#d1d3d4"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       id="rect6982" />
+    <rect
+       x="7.5"
+       y="7.5"
+       width="36.67"
+       height="24.33"
+       fill="#00aeef"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       id="rect6984" />
+    <circle
+       cx="55.43"
+       cy="10.83"
+       r="3.33"
+       fill="#a7a9ac"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       id="circle6986" />
+    <circle
+       cx="55.43"
+       cy="20.5"
+       r="3.33"
+       fill="#a7a9ac"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       id="circle6988" />
+    <circle
+       cx="60.58"
+       cy="33.69"
+       r="1.67"
+       fill="#fff"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       id="circle6990" />
+    <circle
+       cx="70.29"
+       cy="33.69"
+       r="1.67"
+       fill="#fff"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       id="circle6992" />
+    <circle
+       cx="80"
+       cy="33.69"
+       r="1.67"
+       fill="#fff"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       id="circle6994" />
+    <circle
+       cx="89.72"
+       cy="33.69"
+       r="1.67"
+       fill="#fff"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       id="circle6996" />
+    <rect
+       x="66.25"
+       y="8.69"
+       width="4.75"
+       height="3.5"
+       fill="#a7a9ac"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       id="rect6998" />
+    <rect
+       x="78.19"
+       y="8.69"
+       width="4.75"
+       height="3.5"
+       fill="#a7a9ac"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       id="rect7000" />
+    <rect
+       x="90.13"
+       y="8.69"
+       width="4.75"
+       height="3.5"
+       fill="#a7a9ac"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       id="rect7002" />
+    <rect
+       x="66.25"
+       y="15.42"
+       width="4.75"
+       height="3.5"
+       fill="#a7a9ac"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       id="rect7004" />
+    <rect
+       x="78.19"
+       y="15.42"
+       width="4.75"
+       height="3.5"
+       fill="#a7a9ac"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       id="rect7006" />
+    <rect
+       x="90.13"
+       y="15.42"
+       width="4.75"
+       height="3.5"
+       fill="#a7a9ac"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       id="rect7008" />
+    <rect
+       x="66.25"
+       y="22.15"
+       width="4.75"
+       height="3.5"
+       fill="#a7a9ac"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       id="rect7010" />
+    <rect
+       x="78.19"
+       y="22.15"
+       width="4.75"
+       height="3.5"
+       fill="#a7a9ac"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       id="rect7012" />
+    <rect
+       x="90.13"
+       y="22.15"
+       width="4.75"
+       height="3.5"
+       fill="#a7a9ac"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       id="rect7014" />
+    <line
+       x1="7.5"
+       y1="19.95"
+       x2="44.17"
+       y2="19.95"
+       fill="none"
+       id="line7016" />
+    <line
+       x1="7.5"
+       y1="19.95"
+       x2="8"
+       y2="19.95"
+       fill="none"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       stroke-width="0.5"
+       id="line7018" />
+    <line
+       x1="9.02"
+       y1="19.95"
+       x2="43.16"
+       y2="19.95"
+       fill="none"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       stroke-width="0.5"
+       stroke-dasharray="1.02 1.02"
+       id="line7020" />
+    <line
+       x1="43.67"
+       y1="19.95"
+       x2="44.17"
+       y2="19.95"
+       fill="none"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       stroke-width="0.5"
+       id="line7022" />
+    <path
+       d="M11.18,20s7.44-17.47,14.65,0,14.66,0,14.66,0"
+       transform="translate(0 0)"
+       fill="none"
+       stroke="#231f20"
+       stroke-miterlimit="10"
+       id="path7024" />
+  </g>
+</svg>
