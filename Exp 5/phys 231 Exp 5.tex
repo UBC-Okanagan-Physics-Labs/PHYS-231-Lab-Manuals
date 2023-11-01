@@ -88,13 +88,13 @@
 \begin{figure}[h!]
 \begin{center}
 \includegraphics[width=5.5 cm]{opamp.eps}
-\caption{\label{fig:1}The LM741 op amp pin designations. $+V_{cc}=15$~V and $-V_{cc}=-15$~V are the positive and negative supply voltage that you must provide the op amp.  The inverting input is $v_\mathrm{in}^-$, the non-inverting input is $v_\mathrm{in}^+$, and the output is $v_\mathrm{out}$.}
+\caption{\label{fig:1}The LM741 op amp pin designations. $+V_\mathrm{cc}=15$~V and $-V_\mathrm{cc}=-15$~V are the positive and negative supply voltage that you must provide the op amp.  The inverting input is $v_\mathrm{in}^-$, the non-inverting input is $v_\mathrm{in}^+$, and the output is $v_\mathrm{out}$.}
 \end{center}
 \end{figure}
 
 ~
 
-\noindent In circuit diagrams, the power supply lines $(\pm V_{cc})$ are usually omitted, so always be sure to {\bf connect the dc power} (usually +15 and -15 Volts) even if it is not indicated on the circuit diagram. 
+\noindent In circuit diagrams, the power supply lines $(\pm V_\mathrm{cc})$ are usually omitted, so always be sure to {\bf connect the dc power} (usually $+15$ and $-15\rm\ V$) even if it is not indicated on the circuit diagram. 
 
 \clearpage
 
@@ -112,7 +112,7 @@ The following terms are frequently encountered when dealing with op amp circuits
 \begin{itemize}
 \item The amplifier draws a minute amount of current ($\sim 100$~nA) through its inputs at all times.  This is called the ``{\bf input offset current}".  The amplifier is also characterized by a slight, D.C. ``{\bf input offset voltage}" ($\sim 1$~mV). 
 \item The gain of the amplifier decreases with increasing frequency. This is a deliberate design characteristic, which reduces the tendency of the amplifier to oscillate. 
-\item The value of the output voltage signal can never exceed the supply voltages $(\pm V_{cc})$.
+\item The value of the output voltage signal can never exceed the supply voltages $(\pm V_\mathrm{cc})$.
 \end{itemize}
 
 ~
@@ -166,7 +166,7 @@ $f\cdot G<10^5$ & Where $f$ is the maximum frequency to be amplified.  This gain
 
 ~
 
-\noindent Now, over a wide frequency range, measure the gain $G$ of the output voltage relative to the input voltage. Determine the bandwidth $BW$ of the amplifier by finding the frequency at which the gain drops to $1/\sqrt{2}$ of the gain at low frequencies (always making sure that you are working in the linear regime of the amplifier). Your measurements of the gain as a function of frequency should be plotted on a log-log plot and fitted (by hand with a ruler) to determine the power law that governs the roll-off above this cutoff frequency.
+\noindent Now, over a wide frequency range, measure the gain $G$ of the output voltage relative to the input voltage. Determine the bandwidth $BW$ of the amplifier by finding the frequency at which the gain drops to $1/\sqrt{2}$ of the gain at low frequencies (always making sure that you are working in the linear regime of the amplifier). A Jupyter notebook will be used to plot $\log\left\vert G\right\vert$ as a function of $\log f$.  You will also perform a linear fit to determine the power law that governs the roll-off above this cutoff frequency.
 
 ~
 
